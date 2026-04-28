@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Banner](https://images.unsplash.com/photo-1654618977232-a6c6dea9d1e8?w=600)
 
-# Assalamualaikum, I'm Tahiya Akter
+# Hi, I'm Tahiya Akter
 ### Frontend Learner | React & Next.js Enthusiast | Future Freelancer
 
 ---
