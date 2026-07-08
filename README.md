@@ -32,8 +32,8 @@ I am a passionate Frontend Developer in the making. I enjoy building modern, res
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=T809806&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T809806&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T809806&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T809806&layout=compact&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com/?user=T809806&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=T809806&theme=github-dark)
